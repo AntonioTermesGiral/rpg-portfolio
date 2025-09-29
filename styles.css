@@ -6,3 +6,14 @@
 #mainCanvas {
     background-color: rebeccapurple;
 }
+
+#NPCDialog {
+    width: auto;
+    bottom: 10;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+dialog[open] {
+    display: inline;
+}
