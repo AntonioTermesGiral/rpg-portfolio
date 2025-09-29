@@ -1,0 +1,8 @@
+.char {
+    width: 300px;
+    height: auto;
+}
+
+#mainCanvas {
+    background-color: rebeccapurple;
+}
